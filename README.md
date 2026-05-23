@@ -3,8 +3,9 @@
     src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+comum+AI+Full-Stack+Engineer"
     alt="Hi"
   />
+
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🌟Apache+Committer.+🦌+Maintainer+of+ByteDance+/+DeerFlow.;"
+    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🌟Apache+Committer.+🦌+Maintainer+of+ByteDance+/+DeerFlow."
     alt="Profile Info"
   />
 
@@ -24,44 +25,47 @@
 
   <!-- 隐藏的社交链接
   <p>
-    <a href="https://mp.weixin.qq.com/s/uOAeNE5lcGjCB13vUwjNcg" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/微信公众号-阿酥在Coding-1AAD19?style=flat-square&logo=wechat&logoColor=white" alt="微信公众号"/>
+    <a href="https://mp.weixin.qq.com/s/uOAeNE5lcGjCB13vUwjNcg">
+      <img src="https://img.shields.io/badge/微信公众号-阿酥在Coding-1AAD19?style=flat-square&logo=wechat&logoColor=white"/>
     </a>
 
-    <a href="mailto:lofisuchat@gmail.com" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Gmail-lofisuchat%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <a href="mailto:lofisuchat@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-lofisuchat%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
 
-    <a href="https://www.xiaohongshu.com/user/profile/620103f00000000021029b87" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/小红书-阿酥在Coding-FF0036?style=flat-square&logoColor=white" alt="小红书"/>
+    <a href="https://www.xiaohongshu.com/user/profile/620103f00000000021029b87">
+      <img src="https://img.shields.io/badge/小红书-阿酥在Coding-FF0036?style=flat-square&logoColor=white"/>
     </a>
 
-    <a href="https://space.bilibili.com/489812144" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Bilibili-空生酥-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/>
+    <a href="https://space.bilibili.com/489812144">
+      <img src="https://img.shields.io/badge/Bilibili-空生酥-00A1D6?style=flat-square&logo=bilibili&logoColor=white"/>
     </a>
 
-    <a href="https://music.163.com/#/artist?id=33710680" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/网易云音乐-空生酥-C20C0C?style=flat-square&logo=neteasemusic&logoColor=white" alt="网易云音乐"/>
+    <a href="https://music.163.com/#/artist?id=33710680">
+      <img src="https://img.shields.io/badge/网易云音乐-空生酥-C20C0C?style=flat-square&logo=neteasemusic&logoColor=white"/>
     </a>
   </p>
   -->
 </div>
 
-<!-- 表格布局 -->
-<table style="width: 100%; border: none;">
-  <tr>
-    <!-- 左侧：工作经历 -->
-    <td valign="top" width="50%">
-      <h4>💼 Work Experience</h4>
-      <p>
-        <strong>Meituan</strong> -- <code>Drone Delivery BU</code> -- <code>2026.4 to Now.</code>
-      </p>
-    </td>
+<table>
+<tr>
 
-    <!-- 右侧：开源经历 -->
-    <td valign="top" width="50%">
-      <h4>💻 Open Source Experience</h4>
-      <blockquote>🚧 Coming Soon...</blockquote>
-    </td>
-  </tr>
+<td width="70%" valign="top">
+
+#### 💼 Work Experience
+
+**Meituan** · Drone Delivery BU · `Apr 2026 – Present`
+
+</td>
+
+<td width="30%" valign="top">
+
+#### 💻 Open Source Experience
+
+> 🚧 Coming Soon...
+
+</td>
+
+</tr>
 </table>
