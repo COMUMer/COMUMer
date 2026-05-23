@@ -51,7 +51,7 @@
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td valign="top">
 
 #### 💼 Work Experience
 
@@ -59,7 +59,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top">
 
 #### 💻 Open Source Experience
 
