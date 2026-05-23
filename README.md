@@ -59,7 +59,7 @@
 
 </td>
 
-<td width="30%" valign="top">
+<td width="70%" valign="top">
 
 #### 💻 Open Source Experience
 
